@@ -1,3 +1,24 @@
+
+# Einrichtung des Frontends auf dem lokalen Entwicklungsserver
+
+## Voraussetzungen
+
+Bevor Sie beginnen, stellen Sie sicher, dass Ihr lokaler Entwicklungsserver die folgenden Voraussetzungen erfüllt:
+
+- Node.js inkl. NPM
+
+## Installation
+1. Öffnen Sie eine Kommandozeile in Ihrem Projektverzeichnis und führen Sie den folgenden Befehl aus, um die erforderlichen Pakete zu installieren:
+    ```bash
+    npm install
+    ```
+2. Führen Sie den folgenden Befehl aus, um die Anwendung zu starten:
+    ```bash
+    npm start
+    ```
+3. Öffnen sie [http://localhost:3000](http://localhost:3000) im Browser, um die Anwendung zu sehen
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
