@@ -1,3 +1,5 @@
+Author: David Dannenberg - https://github.com/AkademischDannenberg
+
 
 # Einrichtung des Frontends auf dem lokalen Entwicklungsserver
 
